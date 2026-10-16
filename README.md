@@ -6,9 +6,9 @@ A catalog of **legitimate security learning** — CTF platforms, OWASP projects,
 
 > **Scams:** Fake “cybersecurity internships” and paid “certification guaranteed” → [resources/security-scams.md](resources/security-scams.md)
 
-**Navigation:** [NAVIGATION.md](NAVIGATION.md)
+**Navigation:** [NAVIGATION.md](NAVIGATION.md) · **Hub:** [student-dev-catalogs](https://jay-lokhande.github.io/student-dev-catalogs/)
 
-**Hub:** [student-dev-catalogs](https://github.com/Jay-Lokhande/student-dev-catalogs) · **Sister repos:** [resources/sister-repos.md](resources/sister-repos.md)
+**Sister repos:** [resources/sister-repos.md](resources/sister-repos.md) · **Sister Pages:** [hub](https://jay-lokhande.github.io/student-dev-catalogs/) · [oss](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [grants](https://jay-lokhande.github.io/build-grants/) · [hack-safe](https://jay-lokhande.github.io/hack-safe/) · [ai](https://jay-lokhande.github.io/ai-catalog/) · [coding](https://jay-lokhande.github.io/coding-platforms/)
 
 ---
 
