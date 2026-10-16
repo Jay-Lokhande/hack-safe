@@ -1,6 +1,6 @@
 # Hack Safe
 
-A catalog of **legitimate security learning** — CTF platforms, OWASP projects, official bug bounty **platforms**, and student community entry points. Not exploit trading, not “hire a hacker” scams.
+A catalog of **legitimate security learning** — CTF platforms, OWASP projects, official bug bounty **platforms**, and student community entry points. Not exploit trading, not “hire a hacker” scams. You can [Navigation](NAVIGATION.md), find [Hub](https://jay-lokhande.github.io/student-dev-catalogs/) (all catalogs), and browse [Sister repos](resources/sister-repos.md).
 
 > **Disclaimer:** Only practice on systems you’re allowed to test. Bug bounties have strict scope rules.
 
