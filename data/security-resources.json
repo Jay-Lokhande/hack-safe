@@ -1,0 +1,12 @@
+[
+  {"name": "picoCTF", "category": "ctf", "url": "https://picoctf.org/"},
+  {"name": "OverTheWire", "category": "ctf", "url": "https://overthewire.org/"},
+  {"name": "TryHackMe", "category": "ctf", "url": "https://tryhackme.com/"},
+  {"name": "Hack The Box Academy", "category": "ctf", "url": "https://academy.hackthebox.com/"},
+  {"name": "CTFtime", "category": "ctf", "url": "https://ctftime.org/"},
+  {"name": "OWASP", "category": "owasp", "url": "https://owasp.org/"},
+  {"name": "OWASP Juice Shop", "category": "owasp", "url": "https://owasp.org/www-project-juice-shop/"},
+  {"name": "HackerOne", "category": "bounty", "url": "https://www.hackerone.com/"},
+  {"name": "Bugcrowd", "category": "bounty", "url": "https://www.bugcrowd.com/"},
+  {"name": "Google VRP", "category": "bounty", "url": "https://bughunter.withgoogle.com/"}
+]

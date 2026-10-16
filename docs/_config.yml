@@ -1,0 +1,9 @@
+title: Hack Safe
+description: CTF, OWASP, bug bounty platforms for students
+theme: jekyll-theme-cayman
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
